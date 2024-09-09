@@ -2,5 +2,10 @@
   "hosted-zone:account=863518440957:domainName=agorra.biz:region=eu-west-1": {
     "Id": "/hostedzone/Z0327737233ZI3YNIHY0A",
     "Name": "agorra.biz."
-  }
+  },
+  "availability-zones:account=863518440957:region=eu-west-1": [
+    "eu-west-1a",
+    "eu-west-1b",
+    "eu-west-1c"
+  ]
 }
